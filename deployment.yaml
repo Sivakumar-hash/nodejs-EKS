@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: my-backend-api
-        image: shanu9/node1
+        image: chintharasapalem/nodeapi
